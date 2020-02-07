@@ -1,0 +1,57 @@
+.WeatherDataContainer {
+    background-color: aquamarine
+}
+
+.WeatherTemperatureContainer {
+    background: dimgrey
+}
+
+.WeatherExtraInfoContainer {
+    background: coral
+}
+
+.WeatherTemperatureStyle {
+    background: blue
+}
+
+.wicon {
+    color: rgb(0, 0, 192)
+}
+
+.temperatureValor {
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.locationTitle {
+    color: rgba(196, 30, 1, 0.808);
+    font-size: 50px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    -webkit-box-shadow: 0px 0px 31px 12px rgba(3, 224, 240, 1);
+    -moz-box-shadow: 0px 0px 31px 12px rgba(3, 224, 240, 1);
+    box-shadow: 0px 0px 31px 12px rgba(3, 224, 240, 1);
+}
+
+.climaDesc {
+    color: rgba(97, 7, 97, 0.918);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+
+.humidity {
+    font-style: italic;
+    color: darkslategray
+}
+
+.wind {
+    font-style: italic;
+    color: chartreuse
+}
+
+.button{
+   color: rgb(247, 0, 152)
+}
