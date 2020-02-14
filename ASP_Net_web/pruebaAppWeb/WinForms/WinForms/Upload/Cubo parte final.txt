@@ -1,0 +1,23 @@
+CRUZ FINAL:
+Que quede alguna L arriba. 
+Fromtal Horas - Derecha Arriba - Superior Horas - Derecha Abajo - Superior Antihoras - Frontal Antihoras.
+Se forma le linea recta. Que no te apunte, vuelvo a hacer lo mismo y se forma la cruz.
+
+COINCIDIR COLORES DE CRUZ:
+Que coincida un color y te apunte, o ninguno. 
+Derecha Arriba - Superior Horas - Derecha abajo - Superior Horas - Derecha Arriba - Superior Horas 2 Veces - Derecha Abajo.
+Hacer hasta que coincida.
+
+COINCIDIR PUNTAS:
+Si alguna esta en la posicion correcta, no improta el color, que te apunte y quede a la derecha.
+Superior Horas - Derecha Arriba - Superior Antihoras - Izquierda Arriba - Superior Horas - Derecha Abajo - Superior Antihoras - Izquierda Abajo.
+Hacer hasta que queden todas correctas.
+
+GIRAR PUNTAS:
+Con este paso se desarma todo el cubo, pero no importa, vos segui.
+La punta que quieras acomodar que te apunte y quede a la derecha.
+Derecha Abajo - Base Antihoras - Derecha Arriba - Base Horas.
+Asi hasta que tengas la punta.
+Giras solo la parte superior y que te apunte otra punta faltante y hacer lo mismo.
+
+FIN
