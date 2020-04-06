@@ -19,20 +19,19 @@ namespace EntityFramework
                 Console.Write("Ingresar 'M' o 'F' segun el sexo: ");
                 var sexo = Console.ReadLine();
 
-                var persona = new persona { personaNombre = nombre, personaSexoId = (sexo.Equals('M') || sexo.Equals('m') ? 1 : 2) };
+                var persona = new persona { personaNombre = nombre, personaSexoId = ((sexo.Equals("M") ) ? 1 : 2) };
                 db.persona.Add(persona);
                 db.SaveChanges();
 
                 // Mostrar personas
                 var listaPersonas = from p in db.persona
-                            orderby p.personaId
-                            where p.personaNombre.Equals("Pablo")
+                            orderby p.personaId           
                             select p;
 
                 Console.WriteLine("Total de personas:");
                 foreach (var p in listaPersonas)
                 {
-                    Console.WriteLine(p.personaNombre + " " + ((p.personaSexoId == 1) ? "Mascuino" : "Femenino"));
+                    Console.WriteLine(p.personaNombre + " " + ((p.personaSexoId == 1) ? "Masculino" : "Femenino"));
                 }
 
                 Console.WriteLine("Presione una tecla para salir");
